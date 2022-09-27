@@ -5,7 +5,7 @@ import PaginaTelaCadastro from "../Cadastro";
 import PaginaEsqueciSenha from "../EsqueciSenha";
 import PaginaLogin from "../Login";
 import PaginaNovaSenha from "../NovaSenha";
-import PaginaAddProdutos from "../AddProdutos";
+import PaginaAddProdutos from "../PaginaAddProdutos";
 import PaginaAdmin from "../PaginaAdmin";
 import PaginaCadastrarBairros from "../PaginaCadastrarBairros";
 
